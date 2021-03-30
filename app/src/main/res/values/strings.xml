@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab05</string>
+
+    <string name="nazwa_pliku">Nazwa pliku</string>
+    <string name="przycisk_zapisz">Zapisz</string>
+    <string name="przycisk_czytaj">Czytaj</string>
+</resources>
